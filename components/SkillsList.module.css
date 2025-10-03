@@ -1,0 +1,11 @@
+.skills {
+  padding: 1rem;
+  border-radius: 8px;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.06);
+  width: 220px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+}
+.title { margin: 0 0 0.5rem; }
+ul { margin: 0; padding-left: 1.2rem; }
+li { margin-bottom: 0.4rem; }
